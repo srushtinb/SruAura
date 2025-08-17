@@ -1,6 +1,6 @@
 # SruAura - Interior Design Website🏠✨🎨
 
-🏠 This is the code for the SruAura website, which offers interior design solutions for homes. The website provides various features such as design ideas, booking quotes, and information about the company. It is built using HTML, CSS, and JavaScript.
+🏠 SruAura, which offers interior design solutions for homes. The website provides various features such as design ideas, booking quotes, and information about the company. It is built using HTML, CSS, and JavaScript.
 
 ## Visit the Website
 
